@@ -1,1 +1,1 @@
-# Mastering_embedded_systems
+# stupid
